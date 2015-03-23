@@ -1,0 +1,27 @@
+body {
+	font: 62.5% "Trebuchet MS", sans-serif;
+}
+
+#Titulo {
+	margin-top: 1em;
+}
+
+img {
+    height: 100px;
+}
+
+.noticia {
+	height: 250px;
+	border-style: solid;
+	border-width: 3px;
+	margin: 5px 0;
+	background-color: #219ac0;
+}
+
+.noticia p, .noticia button {
+	margin-left: 20px;
+}
+
+.noticia img {
+	margin: 5px;
+}
